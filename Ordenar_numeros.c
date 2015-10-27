@@ -4,7 +4,7 @@ int n2;
 int n3;
 int main() 
 { 
-   	printf("Programa que ordena los numeros de mayor a menor\n");
+	printf("Programa que ordena los numeros de mayor a menor\n");
 	printf("Introduce el primer numero: "); 
     scanf("%d",&n1); 
     printf("Introduce el segundo numero: "); 
